@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4494E814-81E7-4BC7-8E1A-80A54F4C6FCF"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BC70C68-8538-4795-BE78-5CE2108E3F3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "loginApi(email:password:phoneCode:phoneNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BC70C68-8538-4795-BE78-5CE2108E3F3F - 855de0f64fd92b01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "2BC70C68-8538-4795-BE78-5CE2108E3F3F - 855de0f64fd92b01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+               <Location
+                  uuid = "2BC70C68-8538-4795-BE78-5CE2108E3F3F - 855de0f64fd92b01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "992">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8902A0B-5390-4020-A1FC-8685AE62BD56"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "loginApi(email:password:phoneCode:phoneNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8902A0B-5390-4020-A1FC-8685AE62BD56 - 855de0f64fd928a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "A8902A0B-5390-4020-A1FC-8685AE62BD56 - 855de0f64fd928a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+               <Location
+                  uuid = "A8902A0B-5390-4020-A1FC-8685AE62BD56 - 855de0f64fd928a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FBD7E63-CC4E-4FA7-B2F2-AB37685C756F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FBD7E63-CC4E-4FA7-B2F2-AB37685C756F - 6c68e690db7411f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.viewDidLoad() -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "2FBD7E63-CC4E-4FA7-B2F2-AB37685C756F - 6c68e690db7411f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.viewDidLoad() -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F04657C-2ED1-4526-BAA0-E756F77ADDAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/Home Module/Model/EasyBankTransactionWebViewVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "getPaymentUrlAPI(code:state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6B207CC-91E2-4E3B-8E7F-16F507C8ACC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/Data Manager/Login Data Manager /APIDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "getData(url:param:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6B207CC-91E2-4E3B-8E7F-16F507C8ACC2 - 9dda777aed7f86c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ApiResults&lt;Foundation.Data, Bank_316.ServerError&gt;) -&gt; () in Bank_316.APIDataManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Swift.String, param: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Bank_316.ResultSet&lt;&#x3c4;_0_0, Bank_316.ServerError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/Data%20Manager/Login%20Data%20Manager%20/APIDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "1224">
+               </Location>
+               <Location
+                  uuid = "B6B207CC-91E2-4E3B-8E7F-16F507C8ACC2 - 9dda777aed7f86c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ApiResults&lt;Foundation.Data, Bank_316.ServerError&gt;) -&gt; () in Bank_316.APIDataManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Swift.String, param: Swift.Dictionary&lt;Swift.String, Any&gt;, completion: (Bank_316.ResultSet&lt;&#x3c4;_0_0, Bank_316.ServerError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smtmacmini3/Documents/iOS%20Project/Code/Bank_316/Bank316/Data%20Manager/Login%20Data%20Manager%20/APIDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "1328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

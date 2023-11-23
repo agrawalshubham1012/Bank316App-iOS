@@ -1,0 +1,14 @@
+${PODS_ROOT}/Target Support Files/Pods-Bank 316-Bank 316UITests/Pods-Bank 316-Bank 316UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CountryPickerView/CountryPickerView.framework
+${BUILT_PRODUCTS_DIR}/DropDown/DropDown.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework
+${BUILT_PRODUCTS_DIR}/StripeApplePay/StripeApplePay.framework
+${BUILT_PRODUCTS_DIR}/StripeCore/StripeCore.framework
+${BUILT_PRODUCTS_DIR}/StripePayments/StripePayments.framework
+${BUILT_PRODUCTS_DIR}/StripePaymentsUI/StripePaymentsUI.framework
+${BUILT_PRODUCTS_DIR}/StripeUICore/StripeUICore.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CardScan/CardScan.framework/CardScan
