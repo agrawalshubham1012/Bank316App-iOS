@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22155" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22131"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="LufgaMedium.ttf">
+            <string>Lufga-Medium</string>
+        </array>
+        <array key="LufgaSemiBold.ttf">
+            <string>Lufga-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="CardTableViewCell" rowHeight="64" id="KGk-i7-Jjw" customClass="CardTableViewCell" customModule="Bank_316" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="64"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="64"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qVi-db-2jZ">
+                        <rect key="frame" x="0.0" y="5" width="320" height="55"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="3Yi-YJ-AMx">
+                                <rect key="frame" x="10" y="16.666666666666668" width="32" height="22.000000000000004"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="22" id="IOD-rd-A6H"/>
+                                    <constraint firstAttribute="width" constant="32" id="o0C-er-tOX"/>
+                                </constraints>
+                            </imageView>
+                            <imageView hidden="YES" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="rightIcon" translatesAutoresizingMaskIntoConstraints="NO" id="Llq-sb-XsV">
+                                <rect key="frame" x="283" y="15.666666666666668" width="24" height="24.000000000000004"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="24" id="IBf-QH-3Fq"/>
+                                    <constraint firstAttribute="height" constant="24" id="Wqb-wF-Neg"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="kjhkjhkjhkjkjkjhkjh" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hjI-1h-k4X">
+                                <rect key="frame" x="69" y="15.666666666666666" width="209" height="23.666666666666671"/>
+                                <fontDescription key="fontDescription" name="Lufga-Medium" family="Lufga" pointSize="18"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZjW-pa-yEp">
+                                <rect key="frame" x="274" y="13.666666666666668" width="38" height="28.000000000000004"/>
+                                <fontDescription key="fontDescription" name="Lufga-SemiBold" family="Lufga" pointSize="12"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Delete">
+                                    <color key="titleColor" name="lemonGreen"/>
+                                </state>
+                                <connections>
+                                    <action selector="cardDeleteButton:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="Xl5-K2-YB2"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.2695125639" green="0.36080715060000002" blue="0.2012505829" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="3Yi-YJ-AMx" firstAttribute="leading" secondItem="qVi-db-2jZ" secondAttribute="leading" constant="10" id="0Rj-XK-tLh"/>
+                            <constraint firstItem="hjI-1h-k4X" firstAttribute="leading" secondItem="3Yi-YJ-AMx" secondAttribute="trailing" constant="27" id="8BA-jz-5ob"/>
+                            <constraint firstItem="hjI-1h-k4X" firstAttribute="centerY" secondItem="qVi-db-2jZ" secondAttribute="centerY" id="F2K-hB-FtB"/>
+                            <constraint firstItem="ZjW-pa-yEp" firstAttribute="centerY" secondItem="qVi-db-2jZ" secondAttribute="centerY" id="VjW-c0-rDd"/>
+                            <constraint firstItem="3Yi-YJ-AMx" firstAttribute="centerY" secondItem="qVi-db-2jZ" secondAttribute="centerY" id="Vqm-aL-rsv"/>
+                            <constraint firstAttribute="trailing" secondItem="Llq-sb-XsV" secondAttribute="trailing" constant="13" id="YQU-Dn-7pI"/>
+                            <constraint firstAttribute="height" constant="55" id="Zoa-cb-cgS"/>
+                            <constraint firstItem="Llq-sb-XsV" firstAttribute="leading" secondItem="hjI-1h-k4X" secondAttribute="trailing" constant="5" id="kTk-Qm-gUQ"/>
+                            <constraint firstAttribute="trailing" secondItem="ZjW-pa-yEp" secondAttribute="trailing" constant="8" id="lmY-xr-bsU"/>
+                            <constraint firstItem="Llq-sb-XsV" firstAttribute="centerY" secondItem="qVi-db-2jZ" secondAttribute="centerY" id="wwf-wI-Qt8"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusData">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.084229208530000002" green="0.19916182760000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="qVi-db-2jZ" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="H1i-sJ-i80"/>
+                    <constraint firstAttribute="trailing" secondItem="qVi-db-2jZ" secondAttribute="trailing" id="P8n-oQ-haS"/>
+                    <constraint firstItem="qVi-db-2jZ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="QOm-xN-b1X"/>
+                    <constraint firstAttribute="bottom" secondItem="qVi-db-2jZ" secondAttribute="bottom" constant="5" id="iGh-OL-Roh"/>
+                </constraints>
+                <userDefinedRuntimeAttributes>
+                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusData">
+                        <real key="value" value="10"/>
+                    </userDefinedRuntimeAttribute>
+                </userDefinedRuntimeAttributes>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" red="0.084229208530000002" green="0.19916182760000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="cardBranchIcon" destination="3Yi-YJ-AMx" id="6F7-6U-gO5"/>
+                <outlet property="cardDeleteButton" destination="ZjW-pa-yEp" id="nP5-Lg-5ew"/>
+                <outlet property="cardNumberLabel" destination="hjI-1h-k4X" id="TnT-ea-tXh"/>
+                <outlet property="rightIcon" destination="Llq-sb-XsV" id="DMo-ou-ebU"/>
+            </connections>
+            <point key="canvasLocation" x="74.809160305343511" y="-9.1549295774647899"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="rightIcon" width="20" height="20"/>
+        <namedColor name="lemonGreen">
+            <color red="0.75686274509803919" green="0.97647058823529409" blue="0.015686274509803921" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

@@ -1,0 +1,74 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CardScan (2.1.2)
+  - CountryPickerView (3.3.0)
+  - DropDown (2.3.13)
+  - IQKeyboardManagerSwift (6.5.12)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+  - SkyFloatingLabelTextField (4.0.0)
+  - StripeApplePay (23.18.2):
+    - StripeCore (= 23.18.2)
+  - StripeCore (23.18.2)
+  - StripePayments (23.18.2):
+    - StripeCore (= 23.18.2)
+    - StripePayments/Stripe3DS2 (= 23.18.2)
+  - StripePayments/Stripe3DS2 (23.18.2):
+    - StripeCore (= 23.18.2)
+  - StripePaymentsUI (23.18.2):
+    - StripeCore (= 23.18.2)
+    - StripePayments (= 23.18.2)
+    - StripeUICore (= 23.18.2)
+  - StripeUICore (23.18.2):
+    - StripeCore (= 23.18.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - CardScan
+  - CountryPickerView
+  - DropDown
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - SDWebImage
+  - SkyFloatingLabelTextField
+  - StripeApplePay
+  - StripePaymentsUI
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CardScan
+    - CountryPickerView
+    - DropDown
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SkyFloatingLabelTextField
+    - StripeApplePay
+    - StripeCore
+    - StripePayments
+    - StripePaymentsUI
+    - StripeUICore
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CardScan: 8f06a55469d758f5ea1c8d79d25a668cab47ab1f
+  CountryPickerView: 6322ada32a80b0cd721b0267282a5c24f406f263
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+  StripeApplePay: c94e56e7193815ea0feb67976de9777e78666b87
+  StripeCore: 075589c1503304559dd467c04b816f85207e7789
+  StripePayments: bd848d5787f0fca9ba33c57c3bb108ba08c8c882
+  StripePaymentsUI: 595f6581a9a039fa2f23f9a77235af44c15171fc
+  StripeUICore: 5099399e52853370736aca81b27fc0e86b1822c8
+
+PODFILE CHECKSUM: 13bccd0d04f08a4004fd074896f03955a199b7da
+
+COCOAPODS: 1.14.2

@@ -1,0 +1,6 @@
+framework module Pods_Bank_316_Bank_316UITests {
+  umbrella header "Pods-Bank 316-Bank 316UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

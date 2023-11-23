@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FFC1530A-0C16-4B66-8A2E-E9BB7C5D19ED"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E419D71B-C84C-4E57-AB17-E045BA5B2092"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "loginApi(email:password:phoneCode:phoneNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E419D71B-C84C-4E57-AB17-E045BA5B2092 - 204fe49540f1d090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "2732">
+               </Location>
+               <Location
+                  uuid = "E419D71B-C84C-4E57-AB17-E045BA5B2092 - 204fe49540f1d090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "2628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAEEE913-D76A-4ED2-B3D1-1E676F44CC05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "loginApi(email:password:phoneCode:phoneNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAEEE913-D76A-4ED2-B3D1-1E676F44CC05 - 204fe49540f12940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "FAEEE913-D76A-4ED2-B3D1-1E676F44CC05 - 204fe49540f12940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "FAEEE913-D76A-4ED2-B3D1-1E676F44CC05 - 204fe49540f12940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "3164">
+               </Location>
+               <Location
+                  uuid = "FAEEE913-D76A-4ED2-B3D1-1E676F44CC05 - 204fe49540f12940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "FAEEE913-D76A-4ED2-B3D1-1E676F44CC05 - 204fe49540f12940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "FAEEE913-D76A-4ED2-B3D1-1E676F44CC05 - 204fe49540f12940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.LoginModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.loginPageVC.loginApi(email: Swift.String, password: Swift.String, phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "3368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DFA824F-1BB9-430E-A958-83F22109CD36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/SignUp Module/View Controller/SignUpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "continueButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DFA824F-1BB9-430E-A958-83F22109CD36 - 89a1e0a6d61a3972"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.SignUpVC.continueButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/SignUp%20Module/View%20Controller/SignUpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "4DFA824F-1BB9-430E-A958-83F22109CD36 - 89a1e0a6d61a3972"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.SignUpVC.continueButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/SignUp%20Module/View%20Controller/SignUpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "1292">
+               </Location>
+               <Location
+                  uuid = "4DFA824F-1BB9-430E-A958-83F22109CD36 - 89a1e0a6d61a3972"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.SignUpVC.continueButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/SignUp%20Module/View%20Controller/SignUpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B88C871-2D07-4227-BD5D-CE5EC5BC7AF6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/SignUp Module/View Controller/SignUpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "signUpWithPhoneNumber(phoneCode:phoneNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B88C871-2D07-4227-BD5D-CE5EC5BC7AF6 - 74ab2e95bade6a8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.ForgotPasswordModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.SignUpVC.signUpWithPhoneNumber(phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/SignUp%20Module/View%20Controller/SignUpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1956">
+               </Location>
+               <Location
+                  uuid = "9B88C871-2D07-4227-BD5D-CE5EC5BC7AF6 - 74ab2e95bade6a8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.ForgotPasswordModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.SignUpVC.signUpWithPhoneNumber(phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/SignUp%20Module/View%20Controller/SignUpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "2092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A036497-438B-4C60-877F-C73AA56D3740"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/SignUp Module/View Controller/SignUpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "signUpWithPhoneNumber(phoneCode:phoneNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A036497-438B-4C60-877F-C73AA56D3740 - f6dfd279b96a88c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "$defer() -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/SignUp%20Module/View%20Controller/SignUpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "1A036497-438B-4C60-877F-C73AA56D3740 - 74ab2e95bade6b3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.ForgotPasswordModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.SignUpVC.signUpWithPhoneNumber(phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/SignUp%20Module/View%20Controller/SignUpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "1A036497-438B-4C60-877F-C73AA56D3740 - 74ab2e95bade6b3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Bank_316.ResultSet&lt;Bank_316.ForgotPasswordModel, Bank_316.ServerError&gt;) -&gt; () in Bank_316.SignUpVC.signUpWithPhoneNumber(phoneCode: Swift.String, phoneNumber: Swift.String) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/SignUp%20Module/View%20Controller/SignUpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CE6C9C3-1F38-49DD-8E25-9A02D2D67EA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "sendOTPButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CE6C9C3-1F38-49DD-8E25-9A02D2D67EA5 - 3d649901802471a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.sendOTPButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "6CE6C9C3-1F38-49DD-8E25-9A02D2D67EA5 - 3d649901802471a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.sendOTPButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "6CE6C9C3-1F38-49DD-8E25-9A02D2D67EA5 - 3d649901802471a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.sendOTPButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+               <Location
+                  uuid = "6CE6C9C3-1F38-49DD-8E25-9A02D2D67EA5 - 3d64990180247186"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.sendOTPButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6D7478C-8A01-47B4-B34E-A20D2429410E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "continueButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D6D7478C-8A01-47B4-B34E-A20D2429410E - b1a2661fd268766c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.continueButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "D6D7478C-8A01-47B4-B34E-A20D2429410E - b1a2661fd268766c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.continueButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E641B8B-C4BC-4155-A5B1-D48ED714369F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "validateEmail()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E641B8B-C4BC-4155-A5B1-D48ED714369F - a348791b04d06b3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.validateEmail() -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "8E641B8B-C4BC-4155-A5B1-D48ED714369F - a348791b04d06b3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.validateEmail() -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "8E641B8B-C4BC-4155-A5B1-D48ED714369F - a348791b04d06b3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.validateEmail() -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC6B3268-D87D-4F8D-A0A3-86868E0F3B95"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "validateEmail()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3872BD0D-FDC0-4D5C-84C3-77728DA4FBE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bank316/View Controller/On Boarding Module/Login Module/View Controller/loginPageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "validateEmail()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3872BD0D-FDC0-4D5C-84C3-77728DA4FBE6 - a348791b04d06ac7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.validateEmail() -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+               <Location
+                  uuid = "3872BD0D-FDC0-4D5C-84C3-77728DA4FBE6 - a348791b04d06ae6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bank_316.loginPageVC.validateEmail() -&gt; ()"
+                  moduleName = "Bank 316"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iplexusssoftwaresolutions/Documents/Bank_316/Bank316/View%20Controller/On%20Boarding%20Module/Login%20Module/View%20Controller/loginPageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
